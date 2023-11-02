@@ -1,6 +1,6 @@
 ### Did you know?
 
-Code quality is positively correlated by the number of swear words in the code. My code is fucking garbage because I don't swear enough.
+Code quality is positively correlated with the number of swear words in the code. My code is fucking garbage because I don't swear enough.
 
 <!-- blah blah blah-->
 <!--
