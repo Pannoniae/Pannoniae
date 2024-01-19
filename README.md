@@ -2,6 +2,8 @@
 
 Code quality is positively correlated with the number of swear words in the code. My code is fucking garbage because I don't swear enough.
 
+https://paulgraham.com/avg.html
+
 <!-- blah blah blah-->
 <!--
 **Pannoniae/Pannoniae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
