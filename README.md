@@ -1,7 +1,6 @@
 ### Did you know?
 
-Code quality is positively correlated with the number of swear words in the code. My code is fucking garbage because I don't swear enough.
-^[https://cme.h-its.org/exelixis/pubs/JanThesis.pdf]
+Code quality is positively correlated with the number of swear words in the code. My code is fucking garbage because I don't swear enough.<sup>[1]</sup>
 
 https://paulgraham.com/avg.html
 
@@ -10,6 +9,8 @@ https://paulgraham.com/avg.html
 > &mdash; <cite>Rob Pike</cite>
 
 You can't build great software on a mediocre pile of slop.
+
+[1]: https://cme.h-its.org/exelixis/pubs/JanThesis.pdf
 
 <!-- blah blah blah-->
 <!--
