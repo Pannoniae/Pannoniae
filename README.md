@@ -8,8 +8,6 @@ https://paulgraham.com/avg.html
 >
 > &mdash; <cite>Rob Pike</cite>
 
-You can't build great software on a mediocre pile of slop.
-
 [1]: https://cme.h-its.org/exelixis/pubs/JanThesis.pdf
 
 <!-- blah blah blah-->
